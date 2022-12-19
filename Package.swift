@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(url: "https://github.com/TheAngryDarling/SwiftWebRequest.git",
-                 from: "2.1.2"),
+                 from: "2.1.3"),
         .package(url: "https://github.com/OpenCombine/OpenCombine.git",
                  from: "0.13.0"),
         .package(url: "https://github.com/TheAngryDarling/SwiftLittleWebServer.git",
